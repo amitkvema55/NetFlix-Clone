@@ -1,0 +1,141 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+  
+  }
+
+
+  .header {
+    
+    height: 55vh;
+  }
+
+  .btn {
+
+    font-size: 3vw;
+    
+    width: 16vw;
+   
+}
+
+#pagedetail {
+  
+    top: 40%;
+  
+}
+
+#language {
+    font-size: 2vw;
+    
+    width: 24vw;
+    
+    
+}
+
+.left {
+    
+    width: 22vw;
+    
+}
+
+    .started {
+        margin: 6px auto;
+        display: block;
+        
+        font-size: 1.5vw;
+ height: 45px;
+        width: 24vw;
+        
+    }
+
+    .formgroup input {
+        margin: 10px 0px 0px 28px;
+        height: 45px;
+        width: 60vw;
+    }
+
+    .formgroup {
+        flex-direction: column;
+        display: flex;
+        text-align: center;
+        width: 85%;
+        margin: 25px auto;
+    }
+
+    .feature1,
+.feature2,
+.feature3,
+.feature4 {
+    height: 564px;
+    flex-direction: column;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.img img {
+    width: 68vw;
+    height: 300px
+}
+
+#FAQ > h1 {
+    
+    font-size: 5vw;
+   
+}
+
+.questions {
+
+    width: 74vw;
+}
+
+.button {
+    
+    font-size: 3vw;
+    
+    width: 75vw;
+    
+}
+
+.plusicon {
+    
+    right: 20px;
+   
+   
+}
+
+.para {
+    display: none;
+    width: 75vw;
+    font-size: 2vw;
+    
+}
+
+.active{
+    display: block;
+}
+
+
+.links>div {
+    padding: 12px;
+    margin: 0px 0px;
+}
+
+
+h2 {
+    
+    font-size: 4vw;
+}
+
+
+
+
+
+li a {
+  
+    font-size: 2vw;
+    
+}
